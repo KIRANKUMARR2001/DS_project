@@ -1,0 +1,6 @@
+streamlit
+pandas
+scikit-learn
+Random-Forest
+xgboost
+joblibc
