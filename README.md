@@ -24,13 +24,4 @@ To improve the model's predictive power, raw sensor data was transformed into ph
 *   **Frontend Deployment:** Streamlit
 *   **Model Serialization:** Joblib
 
----
 
-### **💻 How to Run Locally**
-
-If you want to run this dashboard on your own machine, follow these steps:
-
-**1. Clone the repository**
-```bash
-git clone [INSERT YOUR GITHUB REPO URL HERE]
-cd [INSERT YOUR REPO FOLDER NAME HERE]
