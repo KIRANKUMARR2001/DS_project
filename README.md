@@ -1,6 +1,6 @@
 # Predictive Maintenance for Industrial Machinery | Python, RandomForest,XGBoost, Pandas, Scikit-Learn
 <img width="857" height="760" alt="image" src="https://github.com/user-attachments/assets/fbefc7a8-38af-479f-909a-45dc7fa48373" />
-[]([https://dsproject-gtqjspyaxhsevqbvceopxf.streamlit.app/])
+[App link]([https://dsproject-gtqjspyaxhsevqbvceopxf.streamlit.app/])
 
 ### **Overview**
 This project is an end-to-end Machine Learning pipeline that predicts catastrophic machinery failures based on real-time sensor telemetry. It uses an **XGBoost** classification model deployed as a live **Streamlit** web application.
